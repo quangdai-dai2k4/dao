@@ -1,0 +1,155 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Handmade_Dotnet
+build_property.RootNamespace = Handmade_Dotnet
+build_property.ProjectDir = C:\Users\daing\source\repos\Handmade-main\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\daing\source\repos\Handmade-main
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/huongdan/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaHVvbmdkYW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/huongdan/sua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaHVvbmdkYW5cc3VhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/huongdan/them.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaHVvbmdkYW5cdGhlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/huongdan/xoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaHVvbmdkYW5ceG9hLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/login/dangki.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9naW5cZGFuZ2tpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/login/dangnhap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9naW5cZGFuZ25oYXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/login/dangxuat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9naW5cZGFuZ3h1YXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/sanpham/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2FucGhhbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/sanpham/sua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2FucGhhbVxzdWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/sanpham/them.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2FucGhhbVx0aGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/sanpham/xoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2FucGhhbVx4b2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/user/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/user/sua.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdXNlclxzdWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/user/them.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdXNlclx0aGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/user/xoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdXNlclx4b2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Views/Checkout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Views/Heart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVhcnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Views/OrderSuccess/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJTdWNjZXNzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Views/Tutorial/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHV0b3JpYWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/daing/source/repos/Handmade-main/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3mlkk4dq19
